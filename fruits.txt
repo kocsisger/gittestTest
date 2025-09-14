@@ -1,4 +1,4 @@
 alma
 korte
 szilva
-mandarin
+mandarin/eper
